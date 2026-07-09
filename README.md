@@ -19,14 +19,14 @@ I love working with tools that allow me to interact with infrastructure and data
 ## 🏗 Featured Projects
 Here are the tools I've built to solve real-world enterprise support challenges:
 
-* **[Proactive Network Health Monitor]([Link to Repo]):** A Python tool that pings critical infrastructure to detect downtime and categorize failures (DNS/Network vs. Application) in real-time.
-* **[Helpdesk Diagnostic Tool]([Link to Repo]):** A local system utility that automates the collection of machine diagnostic data (IP, Hostname, Disk metrics) to accelerate support triage.
+* **[Proactive Network Health Monitor]([https://github.com/weber-ankit-singh/network-health-monitor]):** A Python tool that pings critical infrastructure to detect downtime and categorize failures (DNS/Network vs. Application) in real-time.
+* **[Helpdesk Diagnostic Tool]([https://github.com/weber-ankit-singh/helpdesk-diagnostic-tool]):** A local system utility that automates the collection of machine diagnostic data (IP, Hostname, Disk metrics) to accelerate support triage.
 
 ## 📈 My Roadmap
 * **Long-term Goal:** Transitioning into a Software Engineering (SWE) role by applying data-driven troubleshooting and scalable coding practices.
 
 ## 📬 Let's Connect
-* **GitHub:** [Insert your GitHub Link]
+* **GitHub:** [https://github.com/weber-ankit-singh]
 * **Email:** [ankitsinghoct1@gmail.com]
 
 ---
